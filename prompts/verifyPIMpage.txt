@@ -1,0 +1,9 @@
+Navigate to https://opensource-demo.orangehrmlive.com/.
+Login to OrangeHRM with username Admin and password admin123. Wait for dashboard to be visible after login.
+Click on PIM in the left sidebar menu.
+Verify that the Employee Information page is displayed.
+Check that both Add and Search buttons are visible on the page.
+Click the user icon in the top right corner.
+Click the Logout option.
+Verify that the login page is displayed again.
+Close the browser.
